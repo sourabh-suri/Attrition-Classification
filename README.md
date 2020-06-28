@@ -71,7 +71,7 @@ JobRole_Research Director, JobRole_Research Scientist,
 JobRole_Sales Executive, JobRole_Sales Representative,
 MaritalStatus_Married, MaritalStatus_Single
 
-<h1> Train-Test data split & Cross validation</h1> 
+<h1>Train-Test data split & Cross validation</h1> 
 
 
 Using train_test_split helper function from scikit-learn, one can evaluate hyper paramaters for their
@@ -82,7 +82,7 @@ validation data may increase the accuracy of overall result but have poor predic
 data.
 
 
-</h1> Cross validation</h1> 
+</h2>Cross validation</h2> 
 
 It helps to solve the above problem where training samples are split into k sets
 (k-folds) for validation. An average of the k folds can be taken as good measure of accuracy for that
